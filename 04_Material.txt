@@ -1,0 +1,17 @@
+## Contacto
+
+Esteban Solano
+@stvansolano
+stvansolano@outlook.com
+http://stvansolano.github.io/blog
+
+## Repositorio
+https://github.com/stvansolano/Curso-Xamarin/clase4
+
+### Xamarin.Forms / Patrones de navegacion
+
+- Navigation Drawer - Android [Link](https://developer.android.com/training/implementing-navigation/nav-drawer)
+
+- Navigation Drawer - iOS [Link](https://github.com/instamobile/drawer-menu-swift/blob/master/DrawerMenuExample/DrawerMenuExample/ViewController)
+
+
